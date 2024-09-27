@@ -1,4 +1,4 @@
-AzureAD+GanaviRamesha@DT-Ganavi MINGW64 ~ (master)
+AzureAD+GanaviRamesha@DT-Ganavi MINGW64 ~ (master) -->deepika
 $ ls
 '@github.com'/        Favorites/                                                           NTUSER.DAT{3d31c03e-1bda-11ef-b55f-8c47be171a1b}.TxR.1.regtrans-ms
  AppData/             Ganavi1/                                                             NTUSER.DAT{3d31c03e-1bda-11ef-b55f-8c47be171a1b}.TxR.2.regtrans-ms
